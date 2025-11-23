@@ -157,6 +157,7 @@ void unified_print(int line, const char *a, const char *b)
 	{
 		printf("%s-%s%s", opt_color ? GREEN : "", b, opt_color ? COLOR_RESET : "");
 	}
+	printf("\n");
 }
 
 // ------------------------------------------------
