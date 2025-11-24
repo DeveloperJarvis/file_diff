@@ -19,7 +19,8 @@
 //
 // SPDX-License-Identifier: GPL-3.0-or-later
 //
-// [Project Name] - [brief description of what it does]
+// file_diff - Check if two files are different and show differences
+//				Concepts: File I/O, String Manipulation, Command-Line Arguments, Memory Managemennt
 //
 // Author: Developer Jarvis (Pen Name)
 // Contact: https://github.com/DeveloperJarvis
